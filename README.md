@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋, I'm Ali Mhrez, PhD!
 
-<!--
-**Ali-Mhrez/Ali-Mhrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### *PhD Researcher (Data Science, NLP focus)*
 
-Here are some ideas to get you started:
+I'm a passionate researcher and developer specializing in Natural Language Processing (NLP) and deep learning. My work focuses on building robust models for tasks like stance detection, document summarization, and natural language inference. I am dedicated to exploring state-of-the-art techniques and contributing to the advancement of data science through research and practical application.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I'm currently learning...
+
+* State-of-the-art NLP techniques and Large Language Models (LLMs), with a focus on document segmentation and summarization.
+
+### 🔗 My Portfolio
+
+Check out my full portfolio here: <https://ali-mhrez.github.io/portfolio/>
+
+### 📫 Connect with me!
+
+* **LinkedIn:** [linkedin.com/in/ali-sd-mhrez](https://www.linkedin.com/in/ali-sd-mhrez)
+
+* **Email:** `alisdmhrez@gmail.com`
+
+* **GitHub:** [github.com/Ali-Mhrez](https://github.com/Ali-Mhrez)
