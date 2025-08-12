@@ -2,7 +2,7 @@
 
 ### *PhD Researcher (Data Science, NLP focus)*
 
-I'm a passionate researcher and developer specializing in Natural Language Processing (NLP) and deep learning. My work focuses on building robust models for tasks like stance detection, document summarization, and natural language inference. I am dedicated to exploring state-of-the-art techniques and contributing to the advancement of data science through research and practical application.
+I'm an NLP researcher and developer with a strong background in Deep Learning and machine learning. My work focuses on building robust models for tasks like stance detection, document summarization, and natural language inference. I am dedicated to exploring state-of-the-art techniques and contributing to the advancement of data science through research and practical application.
 
 ### 🌱 I'm currently learning...
 
