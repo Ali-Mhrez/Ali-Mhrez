@@ -8,9 +8,9 @@ I'm an NLP researcher and developer with a strong background in Deep Learning an
 
 * State-of-the-art NLP techniques and Large Language Models (LLMs), with a focus on document segmentation and summarization.
 
-### 🔗 My Portfolio
+[//]: # (### 🔗 My Portfolio)
 
-Check out my full portfolio here: <https://ali-mhrez.github.io/portfolio/>
+[//]: # (Check out my full portfolio here: <https://ali-mhrez.github.io/portfolio/>)
 
 ### 📫 Connect with me!
 
