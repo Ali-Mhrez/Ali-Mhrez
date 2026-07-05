@@ -2,7 +2,7 @@
 
 ### *PhD Researcher (Data Science, NLP focus)*
 
-I'm an NLP researcher and developer with a strong background in Deep Learning and machine learning. My work focuses on building robust models for tasks like stance detection, document summarization, and natural language inference. I am dedicated to exploring state-of-the-art techniques and contributing to the advancement of data science through research and practical application.
+Highly skilled AI Engineer and PhD Candidate with 7+ years of professional software engineering and deep learning research experience. Proven track record of developing enterprise-grade backend systems for financial institutions alongside designing cutting-edge NLP architectures and optimizing open-source LLMs (Mistral) for production efficiency. Expert in bridge-building between academic innovation and industry delivery, specializing in scalable data pipelines, advanced prompt engineering, and high-performance model deployment. Seeking to leverage deep technical expertise in Python, PyTorch, and GenAI frameworks to drive impact in a Developer or Applied Scientist role.
 
 ### 🌱 I'm currently learning...
 
