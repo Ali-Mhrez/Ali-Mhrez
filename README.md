@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ali Mhrez, PhD!
 
-### *PhD Researcher (Data Science, NLP focus)*
+### *PhD Candidate (Data Science, NLP focus)*
 
 Highly skilled AI Engineer and PhD Candidate with 7+ years of professional software engineering and deep learning research experience. Proven track record of developing enterprise-grade backend systems for financial institutions alongside designing cutting-edge NLP architectures and optimizing open-source LLMs (Mistral) for production efficiency. Expert in bridge-building between academic innovation and industry delivery, specializing in scalable data pipelines, advanced prompt engineering, and high-performance model deployment. Seeking to leverage deep technical expertise in Python, PyTorch, and GenAI frameworks to drive impact in a Developer or Applied Scientist role.
 
